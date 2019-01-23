@@ -7,7 +7,7 @@
             "request": "launch",
             "servertype": "openocd",
             "cwd": "${workspaceRoot}/scripts",
-            "executable": "${workspaceRoot}/build/DFUtest.elf",
+            "executable": "${workspaceRoot}/build/VCP_Bootloader.elf",
             "device": "STM32F103CB",
             "configFiles": [
                 "${workspaceRoot}/scripts/interface/stlink-v2.cfg",

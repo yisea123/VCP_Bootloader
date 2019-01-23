@@ -44,6 +44,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/main.c.obj: C_COMPILER__VCP_Bootload
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/stm32f1xx_hal_msp.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/stm32f1xx_hal_msp.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\stm32f1xx_hal_msp.c.obj.d
@@ -51,6 +53,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/stm32f1xx_hal_msp.c.obj: C_COMPILER_
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/stm32f1xx_it.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/stm32f1xx_it.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\stm32f1xx_it.c.obj.d
@@ -58,6 +62,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/stm32f1xx_it.c.obj: C_COMPILER__VCP_
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/system_stm32f1xx.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/system_stm32f1xx.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\system_stm32f1xx.c.obj.d
@@ -65,6 +71,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/system_stm32f1xx.c.obj: C_COMPILER__
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/usb_device.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/usb_device.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\usb_device.c.obj.d
@@ -72,6 +80,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/usb_device.c.obj: C_COMPILER__VCP_Bo
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_cdc_if.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/usbd_cdc_if.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\usbd_cdc_if.c.obj.d
@@ -79,6 +89,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_cdc_if.c.obj: C_COMPILER__VCP_B
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_conf.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/usbd_conf.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\usbd_conf.c.obj.d
@@ -86,6 +98,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_conf.c.obj: C_COMPILER__VCP_Boo
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_desc.c.obj: C_COMPILER__VCP_Bootloader.2eelf ../Src/usbd_desc.c || cmake_object_order_depends_target_VCP_Bootloader.elf
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\VCP_Bootloader.elf.dir\Src\usbd_desc.c.obj.d
@@ -93,6 +107,8 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_desc.c.obj: C_COMPILER__VCP_Boo
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/stm32_usb_cdc/Inc
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\VCP_Bootloader.elf.dir\Src
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 
 # =============================================================================
 # Link build statements for EXECUTABLE target VCP_Bootloader.elf
@@ -103,19 +119,20 @@ build CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_desc.c.obj: C_COMPILER__VCP_Boo
 
 build VCP_Bootloader.elf: C_EXECUTABLE_LINKER__VCP_Bootloader.2eelf CMakeFiles/VCP_Bootloader.elf.dir/Src/main.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/stm32f1xx_hal_msp.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/stm32f1xx_it.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/system_stm32f1xx.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/usb_device.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_cdc_if.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_conf.c.obj CMakeFiles/VCP_Bootloader.elf.dir/Src/usbd_desc.c.obj | libs/stm32_usb_core/libstm32_usb_core.a libs/stm32_usb_cdc/libstm32_usb_cdc.a libs/stm32_usb_core/libstm32_usb_core.a libs/STM32F1xx/STM32F1xx_HAL_Driver/libSTM32F1xx_HAL_Driver.a libs/STM32F1xx/STM32F1xx_HAL_Driver/libSTM32F1xx_HAL_Driver.a libs/STM32F1xx/CMSIS_STM32F1xx/libCMSIS_Device.a || libs/STM32F1xx/CMSIS_STM32F1xx/libCMSIS_Device.a libs/STM32F1xx/STM32F1xx_HAL_Driver/libSTM32F1xx_HAL_Driver.a libs/stm32_usb_cdc/libstm32_usb_cdc.a libs/stm32_usb_core/libstm32_usb_core.a
   FLAGS = -mthumb -mcpu=cortex-m3 -mfloat-abi=soft -fmessage-length=0 -ffunction-sections -g -gdwarf-2 -O3 -DNDEBUG
-  LINK_FLAGS = -mthumb -mcpu=cortex-m3 -mfloat-abi=soft --specs=nano.specs --specs=nosys.specs -lc -lm -lnosys -Wl,--gc-sections -T"C:/Users/daniel/Documents/DFUtest/STM32F103CBTx_FLASH.ld"
+  LINK_FLAGS = -mthumb -mcpu=cortex-m3 -mfloat-abi=soft --specs=nano.specs --specs=nosys.specs -lc -lm -lnosys -Wl,--gc-sections -T"C:/Users/daniel/Documents/GitHub/VCP_Bootloader/STM32F103CBTx_FLASH.ld"
   LINK_LIBRARIES = libs/stm32_usb_core/libstm32_usb_core.a libs/stm32_usb_cdc/libstm32_usb_cdc.a libs/stm32_usb_core/libstm32_usb_core.a libs/STM32F1xx/STM32F1xx_HAL_Driver/libSTM32F1xx_HAL_Driver.a libs/STM32F1xx/STM32F1xx_HAL_Driver/libSTM32F1xx_HAL_Driver.a libs/STM32F1xx/CMSIS_STM32F1xx/libCMSIS_Device.a
   OBJECT_DIR = CMakeFiles\VCP_Bootloader.elf.dir
-  POST_BUILD = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build && C:\ARMToolchain\bin\arm-none-eabi-objcopy.exe -O ihex C:/Users/daniel/Documents/DFUtest/build/VCP_Bootloader.elf C:/Users/daniel/Documents/DFUtest/build/VCP_Bootloader.hex && C:\ARMToolchain\bin\arm-none-eabi-objcopy.exe -O binary C:/Users/daniel/Documents/DFUtest/build/VCP_Bootloader.elf C:/Users/daniel/Documents/DFUtest/build/VCP_Bootloader.bin"
+  POST_BUILD = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build && C:\ARMToolchain\bin\arm-none-eabi-objcopy.exe -O ihex C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/VCP_Bootloader.elf C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/VCP_Bootloader.hex && C:\ARMToolchain\bin\arm-none-eabi-objcopy.exe -O binary C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/VCP_Bootloader.elf C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/VCP_Bootloader.bin"
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\VCP_Bootloader.elf.dir\
   TARGET_FILE = VCP_Bootloader.elf
-  TARGET_PDB = VCP_Bootloader.elf.dbg
+  TARGET_PDB = VCP_Bootloader.elf.pdb
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -125,14 +142,14 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/daniel/Documents/DFUtest/CMakeLists.txt
+# C:/Users/daniel/Documents/GitHub/VCP_Bootloader/CMakeLists.txt
 # =============================================================================
 
 
@@ -140,7 +157,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for rebuild_cache
 
 build libs/stm32_usb_core/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\stm32_usb_core && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\stm32_usb_core && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -160,6 +177,8 @@ build libs/stm32_usb_core/CMakeFiles/stm32_usb_core.dir/Src/usbd_core.c.obj: C_C
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc
   OBJECT_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir
   OBJECT_FILE_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\Src
+  TARGET_COMPILE_PDB = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\stm32_usb_core.pdb
+  TARGET_PDB = libs\stm32_usb_core\libstm32_usb_core.pdb
 build libs/stm32_usb_core/CMakeFiles/stm32_usb_core.dir/Src/usbd_ctlreq.c.obj: C_COMPILER__stm32_usb_core ../libs/stm32_usb_core/Src/usbd_ctlreq.c || cmake_object_order_depends_target_stm32_usb_core
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\Src\usbd_ctlreq.c.obj.d
@@ -167,6 +186,8 @@ build libs/stm32_usb_core/CMakeFiles/stm32_usb_core.dir/Src/usbd_ctlreq.c.obj: C
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc
   OBJECT_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir
   OBJECT_FILE_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\Src
+  TARGET_COMPILE_PDB = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\stm32_usb_core.pdb
+  TARGET_PDB = libs\stm32_usb_core\libstm32_usb_core.pdb
 build libs/stm32_usb_core/CMakeFiles/stm32_usb_core.dir/Src/usbd_ioreq.c.obj: C_COMPILER__stm32_usb_core ../libs/stm32_usb_core/Src/usbd_ioreq.c || cmake_object_order_depends_target_stm32_usb_core
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\Src\usbd_ioreq.c.obj.d
@@ -174,6 +195,8 @@ build libs/stm32_usb_core/CMakeFiles/stm32_usb_core.dir/Src/usbd_ioreq.c.obj: C_
   INCLUDES = -I../Inc -I../libs/stm32_usb_core/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc
   OBJECT_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir
   OBJECT_FILE_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\Src
+  TARGET_COMPILE_PDB = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\stm32_usb_core.pdb
+  TARGET_PDB = libs\stm32_usb_core\libstm32_usb_core.pdb
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target stm32_usb_core
@@ -187,21 +210,22 @@ build libs/stm32_usb_core/libstm32_usb_core.a: C_STATIC_LIBRARY_LINKER__stm32_us
   OBJECT_DIR = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = libs\stm32_usb_core\CMakeFiles\stm32_usb_core.dir\stm32_usb_core.pdb
   TARGET_FILE = libs\stm32_usb_core\libstm32_usb_core.a
-  TARGET_PDB = stm32_usb_core.a.dbg
+  TARGET_PDB = libs\stm32_usb_core\libstm32_usb_core.pdb
 
 #############################################
 # Utility command for edit_cache
 
 build libs/stm32_usb_core/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\stm32_usb_core && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\stm32_usb_core && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
 build libs/stm32_usb_core/edit_cache: phony libs/stm32_usb_core/CMakeFiles/edit_cache.util
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/daniel/Documents/DFUtest/CMakeLists.txt
+# C:/Users/daniel/Documents/GitHub/VCP_Bootloader/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -219,6 +243,8 @@ build libs/stm32_usb_cdc/CMakeFiles/stm32_usb_cdc.dir/Src/usbd_cdc.c.obj: C_COMP
   INCLUDES = -I../Inc -I../libs/stm32_usb_cdc/Inc -I../libs/CMSIS/Include -I../libs/stm32_usb_core/Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc
   OBJECT_DIR = libs\stm32_usb_cdc\CMakeFiles\stm32_usb_cdc.dir
   OBJECT_FILE_DIR = libs\stm32_usb_cdc\CMakeFiles\stm32_usb_cdc.dir\Src
+  TARGET_COMPILE_PDB = libs\stm32_usb_cdc\CMakeFiles\stm32_usb_cdc.dir\stm32_usb_cdc.pdb
+  TARGET_PDB = libs\stm32_usb_cdc\libstm32_usb_cdc.pdb
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target stm32_usb_cdc
@@ -232,14 +258,15 @@ build libs/stm32_usb_cdc/libstm32_usb_cdc.a: C_STATIC_LIBRARY_LINKER__stm32_usb_
   OBJECT_DIR = libs\stm32_usb_cdc\CMakeFiles\stm32_usb_cdc.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = libs\stm32_usb_cdc\CMakeFiles\stm32_usb_cdc.dir\stm32_usb_cdc.pdb
   TARGET_FILE = libs\stm32_usb_cdc\libstm32_usb_cdc.a
-  TARGET_PDB = stm32_usb_cdc.a.dbg
+  TARGET_PDB = libs\stm32_usb_cdc\libstm32_usb_cdc.pdb
 
 #############################################
 # Utility command for edit_cache
 
 build libs/stm32_usb_cdc/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\stm32_usb_cdc && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\stm32_usb_cdc && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -249,14 +276,14 @@ build libs/stm32_usb_cdc/edit_cache: phony libs/stm32_usb_cdc/CMakeFiles/edit_ca
 # Utility command for rebuild_cache
 
 build libs/stm32_usb_cdc/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\stm32_usb_cdc && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\stm32_usb_cdc && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 build libs/stm32_usb_cdc/rebuild_cache: phony libs/stm32_usb_cdc/CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/daniel/Documents/DFUtest/CMakeLists.txt
+# C:/Users/daniel/Documents/GitHub/VCP_Bootloader/CMakeLists.txt
 # =============================================================================
 
 
@@ -264,7 +291,7 @@ build libs/stm32_usb_cdc/rebuild_cache: phony libs/stm32_usb_cdc/CMakeFiles/rebu
 # Utility command for edit_cache
 
 build libs/CMSIS/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\CMSIS && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\CMSIS && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -274,14 +301,14 @@ build libs/CMSIS/edit_cache: phony libs/CMSIS/CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build libs/CMSIS/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\CMSIS && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\CMSIS && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 build libs/CMSIS/rebuild_cache: phony libs/CMSIS/CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/daniel/Documents/DFUtest/CMakeLists.txt
+# C:/Users/daniel/Documents/GitHub/VCP_Bootloader/CMakeLists.txt
 # =============================================================================
 
 
@@ -289,7 +316,7 @@ build libs/CMSIS/rebuild_cache: phony libs/CMSIS/CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build libs/STM32F1xx/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\STM32F1xx && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\STM32F1xx && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -299,14 +326,14 @@ build libs/STM32F1xx/edit_cache: phony libs/STM32F1xx/CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build libs/STM32F1xx/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\STM32F1xx && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\STM32F1xx && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 build libs/STM32F1xx/rebuild_cache: phony libs/STM32F1xx/CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/daniel/Documents/DFUtest/libs/STM32F1xx/CMakeLists.txt
+# C:/Users/daniel/Documents/GitHub/VCP_Bootloader/libs/STM32F1xx/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -324,6 +351,8 @@ build libs/STM32F1xx/CMSIS_STM32F1xx/CMakeFiles/CMSIS_Device.dir/Source/Template
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\CMSIS_STM32F1xx\CMakeFiles\CMSIS_Device.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\CMSIS_STM32F1xx\CMakeFiles\CMSIS_Device.dir\Source\Templates\gcc
+  TARGET_COMPILE_PDB = libs\STM32F1xx\CMSIS_STM32F1xx\CMakeFiles\CMSIS_Device.dir\CMSIS_Device.pdb
+  TARGET_PDB = libs\STM32F1xx\CMSIS_STM32F1xx\libCMSIS_Device.pdb
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target CMSIS_Device
@@ -337,14 +366,15 @@ build libs/STM32F1xx/CMSIS_STM32F1xx/libCMSIS_Device.a: ASM_STATIC_LIBRARY_LINKE
   OBJECT_DIR = libs\STM32F1xx\CMSIS_STM32F1xx\CMakeFiles\CMSIS_Device.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = libs\STM32F1xx\CMSIS_STM32F1xx\CMakeFiles\CMSIS_Device.dir\CMSIS_Device.pdb
   TARGET_FILE = libs\STM32F1xx\CMSIS_STM32F1xx\libCMSIS_Device.a
-  TARGET_PDB = CMSIS_Device.a.dbg
+  TARGET_PDB = libs\STM32F1xx\CMSIS_STM32F1xx\libCMSIS_Device.pdb
 
 #############################################
 # Utility command for edit_cache
 
 build libs/STM32F1xx/CMSIS_STM32F1xx/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\STM32F1xx\CMSIS_STM32F1xx && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\STM32F1xx\CMSIS_STM32F1xx && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -354,14 +384,14 @@ build libs/STM32F1xx/CMSIS_STM32F1xx/edit_cache: phony libs/STM32F1xx/CMSIS_STM3
 # Utility command for rebuild_cache
 
 build libs/STM32F1xx/CMSIS_STM32F1xx/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\STM32F1xx\CMSIS_STM32F1xx && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\STM32F1xx\CMSIS_STM32F1xx && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
 build libs/STM32F1xx/CMSIS_STM32F1xx/rebuild_cache: phony libs/STM32F1xx/CMSIS_STM32F1xx/CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/daniel/Documents/DFUtest/libs/STM32F1xx/CMakeLists.txt
+# C:/Users/daniel/Documents/GitHub/VCP_Bootloader/libs/STM32F1xx/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -379,6 +409,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_adc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_adc.c.obj.d
@@ -386,6 +418,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_adc_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_adc_ex.c.obj.d
@@ -393,6 +427,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_can.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_can.c.obj.d
@@ -400,6 +436,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_cec.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cec.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_cec.c.obj.d
@@ -407,6 +445,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_cortex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_cortex.c.obj.d
@@ -414,6 +454,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_crc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_crc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_crc.c.obj.d
@@ -421,6 +463,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_dac.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_dac.c.obj.d
@@ -428,6 +472,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_dac_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dac_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_dac_ex.c.obj.d
@@ -435,6 +481,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_dma.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_dma.c.obj.d
@@ -442,6 +490,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_eth.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_eth.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_eth.c.obj.d
@@ -449,6 +499,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_flash.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_flash.c.obj.d
@@ -456,6 +508,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_flash_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_flash_ex.c.obj.d
@@ -463,6 +517,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_gpio.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_gpio.c.obj.d
@@ -470,6 +526,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_gpio_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_gpio_ex.c.obj.d
@@ -477,6 +535,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_hcd.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_hcd.c.obj.d
@@ -484,6 +544,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_i2c.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_i2c.c.obj.d
@@ -491,6 +553,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_i2s.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2s.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_i2s.c.obj.d
@@ -498,6 +562,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_irda.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_irda.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_irda.c.obj.d
@@ -505,6 +571,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_iwdg.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_iwdg.c.obj.d
@@ -512,6 +580,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_mmc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_mmc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_mmc.c.obj.d
@@ -519,6 +589,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_nand.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_nand.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_nand.c.obj.d
@@ -526,6 +598,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_nor.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_nor.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_nor.c.obj.d
@@ -533,6 +607,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_pccard.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pccard.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_pccard.c.obj.d
@@ -540,6 +616,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_pcd.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_pcd.c.obj.d
@@ -547,6 +625,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_pcd_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_pcd_ex.c.obj.d
@@ -554,6 +634,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_pwr.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_pwr.c.obj.d
@@ -561,6 +643,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_rcc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_rcc.c.obj.d
@@ -568,6 +652,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_rcc_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_rcc_ex.c.obj.d
@@ -575,6 +661,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_rtc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_rtc.c.obj.d
@@ -582,6 +670,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_rtc_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_rtc_ex.c.obj.d
@@ -589,6 +679,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_sd.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_sd.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_sd.c.obj.d
@@ -596,6 +688,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_smartcard.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_smartcard.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_smartcard.c.obj.d
@@ -603,6 +697,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_spi.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_spi.c.obj.d
@@ -610,6 +706,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_spi_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_spi_ex.c.obj.d
@@ -617,6 +715,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_sram.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_sram.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_sram.c.obj.d
@@ -624,6 +724,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_tim.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_tim.c.obj.d
@@ -631,6 +733,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_tim_ex.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_tim_ex.c.obj.d
@@ -638,6 +742,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_uart.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_uart.c.obj.d
@@ -645,6 +751,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_usart.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_usart.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_usart.c.obj.d
@@ -652,6 +760,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_hal_wwdg.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_wwdg.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_hal_wwdg.c.obj.d
@@ -659,6 +769,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_adc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_adc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_adc.c.obj.d
@@ -666,6 +778,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_crc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_crc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_crc.c.obj.d
@@ -673,6 +787,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_dac.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_dac.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_dac.c.obj.d
@@ -680,6 +796,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_dma.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_dma.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_dma.c.obj.d
@@ -687,6 +805,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_exti.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_exti.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_exti.c.obj.d
@@ -694,6 +814,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_fsmc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_fsmc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_fsmc.c.obj.d
@@ -701,6 +823,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_gpio.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_gpio.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_gpio.c.obj.d
@@ -708,6 +832,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_i2c.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_i2c.c.obj.d
@@ -715,6 +841,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_pwr.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_pwr.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_pwr.c.obj.d
@@ -722,6 +850,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_rcc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_rcc.c.obj.d
@@ -729,6 +859,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_rtc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_rtc.c.obj.d
@@ -736,6 +868,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_sdmmc.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_sdmmc.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_sdmmc.c.obj.d
@@ -743,6 +877,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_spi.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_spi.c.obj.d
@@ -750,6 +886,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_tim.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_tim.c.obj.d
@@ -757,6 +895,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_usart.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_usart.c.obj.d
@@ -764,6 +904,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_usb.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_usb.c.obj.d
@@ -771,6 +913,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Src/stm32f1xx_ll_utils.c.obj: C_COMPILER__STM32F1xx_HAL_Driver ../libs/STM32F1xx/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.c || cmake_object_order_depends_target_STM32F1xx_HAL_Driver
   DEFINES = -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src\stm32f1xx_ll_utils.c.obj.d
@@ -778,6 +922,8 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/STM32F1xx_HAL_Driver.dir/Sr
   INCLUDES = -I../Inc -I../libs/STM32F1xx/Include -I../libs/STM32F1xx/STM32F1xx_HAL_Driver/Inc -I../libs/CMSIS/Include -I../libs/STM32F1xx/CMSIS_STM32F1xx/Include
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   OBJECT_FILE_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\Src
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target STM32F1xx_HAL_Driver
@@ -791,14 +937,15 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/libSTM32F1xx_HAL_Driver.a: C_STATIC_LI
   OBJECT_DIR = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\CMakeFiles\STM32F1xx_HAL_Driver.dir\STM32F1xx_HAL_Driver.pdb
   TARGET_FILE = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.a
-  TARGET_PDB = STM32F1xx_HAL_Driver.a.dbg
+  TARGET_PDB = libs\STM32F1xx\STM32F1xx_HAL_Driver\libSTM32F1xx_HAL_Driver.pdb
 
 #############################################
 # Utility command for edit_cache
 
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\STM32F1xx\STM32F1xx_HAL_Driver && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\STM32F1xx\STM32F1xx_HAL_Driver && "C:\Program Files\CMake\bin\cmake-gui.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -808,7 +955,7 @@ build libs/STM32F1xx/STM32F1xx_HAL_Driver/edit_cache: phony libs/STM32F1xx/STM32
 # Utility command for rebuild_cache
 
 build libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\DFUtest\build\libs\STM32F1xx\STM32F1xx_HAL_Driver && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\DFUtest -Bc:\Users\daniel\Documents\DFUtest\build"
+  COMMAND = cmd.exe /C "cd /D C:\Users\daniel\Documents\GitHub\VCP_Bootloader\build\libs\STM32F1xx\STM32F1xx_HAL_Driver && "C:\Program Files\CMake\bin\cmake.exe" -Sc:\Users\daniel\Documents\GitHub\VCP_Bootloader -Bc:\Users\daniel\Documents\GitHub\VCP_Bootloader\build"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -831,37 +978,37 @@ build stm32_usb_core: phony libs/stm32_usb_core/libstm32_usb_core.a
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/daniel/Documents/DFUtest/build/libs/CMSIS
+# Folder: C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/libs/CMSIS
 
 build  libs/CMSIS/all: phony
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/daniel/Documents/DFUtest/build/libs/STM32F1xx
+# Folder: C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/libs/STM32F1xx
 
 build  libs/STM32F1xx/all: phony libs/STM32F1xx/CMSIS_STM32F1xx/all libs/STM32F1xx/STM32F1xx_HAL_Driver/all
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/daniel/Documents/DFUtest/build/libs/STM32F1xx/CMSIS_STM32F1xx
+# Folder: C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/libs/STM32F1xx/CMSIS_STM32F1xx
 
 build  libs/STM32F1xx/CMSIS_STM32F1xx/all: phony CMSIS_Device
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/daniel/Documents/DFUtest/build/libs/STM32F1xx/STM32F1xx_HAL_Driver
+# Folder: C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/libs/STM32F1xx/STM32F1xx_HAL_Driver
 
 build  libs/STM32F1xx/STM32F1xx_HAL_Driver/all: phony STM32F1xx_HAL_Driver
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/daniel/Documents/DFUtest/build/libs/stm32_usb_cdc
+# Folder: C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/libs/stm32_usb_cdc
 
 build  libs/stm32_usb_cdc/all: phony stm32_usb_cdc
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/daniel/Documents/DFUtest/build/libs/stm32_usb_core
+# Folder: C:/Users/daniel/Documents/GitHub/VCP_Bootloader/build/libs/stm32_usb_core
 
 build  libs/stm32_usb_core/all: phony stm32_usb_core
 # =============================================================================
@@ -881,13 +1028,13 @@ default all
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../STM32F1xx_Toolchain.cmake ../libs/CMSIS/CMakeLists.txt ../libs/STM32F1xx/CMSIS_STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeLists.txt ../libs/stm32_usb_cdc/CMakeLists.txt ../libs/stm32_usb_core/CMakeLists.txt C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/3.13.1/CMakeASMCompiler.cmake CMakeFiles/3.13.1/CMakeCCompiler.cmake CMakeFiles/3.13.1/CMakeCXXCompiler.cmake CMakeFiles/3.13.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../STM32F1xx_Toolchain.cmake ../libs/CMSIS/CMakeLists.txt ../libs/STM32F1xx/CMSIS_STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeLists.txt ../libs/stm32_usb_cdc/CMakeLists.txt ../libs/stm32_usb_core/CMakeLists.txt C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeASMCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCCompilerABI.c C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeNinjaFindMake.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystem.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C-FeatureTests.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX-FeatureTests.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/MIPSpro-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/3.13.1/CMakeASMCompiler.cmake CMakeFiles/3.13.1/CMakeCCompiler.cmake CMakeFiles/3.13.1/CMakeCXXCompiler.cmake CMakeFiles/3.13.1/CMakeSystem.cmake CMakeFiles/feature_tests.c CMakeFiles/feature_tests.cxx
   pool = console
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../STM32F1xx_Toolchain.cmake ../libs/CMSIS/CMakeLists.txt ../libs/STM32F1xx/CMSIS_STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeLists.txt ../libs/stm32_usb_cdc/CMakeLists.txt ../libs/stm32_usb_core/CMakeLists.txt C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/3.13.1/CMakeASMCompiler.cmake CMakeFiles/3.13.1/CMakeCCompiler.cmake CMakeFiles/3.13.1/CMakeCXXCompiler.cmake CMakeFiles/3.13.1/CMakeSystem.cmake: phony
+build ../CMakeLists.txt ../STM32F1xx_Toolchain.cmake ../libs/CMSIS/CMakeLists.txt ../libs/STM32F1xx/CMSIS_STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/CMakeLists.txt ../libs/STM32F1xx/STM32F1xx_HAL_Driver/CMakeLists.txt ../libs/stm32_usb_cdc/CMakeLists.txt ../libs/stm32_usb_core/CMakeLists.txt C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeASMCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeASMInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCCompilerABI.c C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeNinjaFindMake.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystem.cmake.in C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestASMCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-ASM.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C-FeatureTests.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX-FeatureTests.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/GNU.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/MIPSpro-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/CMake/share/cmake-3.13/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/3.13.1/CMakeASMCompiler.cmake CMakeFiles/3.13.1/CMakeCCompiler.cmake CMakeFiles/3.13.1/CMakeCXXCompiler.cmake CMakeFiles/3.13.1/CMakeSystem.cmake CMakeFiles/feature_tests.c CMakeFiles/feature_tests.cxx: phony
 
 #############################################
 # Clean all the built files.
