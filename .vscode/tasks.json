@@ -1,0 +1,56 @@
+// {
+//     // See https://go.microsoft.com/fwlink/?LinkId=733558
+//     // for the documentation about the tasks.json format
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "Build",
+//             "type": "shell",
+//             "command": "start-process build.bat",
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             }
+//         },
+//         {
+//             "label": "OpenOCD",
+//             "type": "shell",
+//             "command": "start-process openocd.bat",
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             }
+//         }
+//     ]
+// }
+
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "Build project",
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             },
+//             "type": "shell",
+//             "command": "cmake",
+//             "args": [
+//                 "-G Ninja -DCMAKE_TOOLCHAIN_FILE=STM32F103CBTx_Toolchain.cmake -DCMAKE_BUILD_TYPE=Debug ${workspaceFolder}"
+//             ],
+//             "problemMatcher": {
+//                 "pattern": {
+//                     "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+//                     "file": 1,
+//                     "line": 2,
+//                     "column": 3,
+//                     "severity": 4,
+//                     "message": 5
+//                 }
+//             },
+//             "presentation": {
+//                 "focus": true
+//             }
+//         }
+//     ]
+// }

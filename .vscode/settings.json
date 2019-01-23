@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cstring": "cpp",
+        "functional": "cpp",
+        "usbd_dfu.h": "c",
+        "usbd_cdc_if.h": "c"
+    },
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/STM32F1xx_Toolchain.cmake"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex debug",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "openocd",
+            "cwd": "${workspaceRoot}/scripts",
+            "executable": "${workspaceRoot}/build/DFUtest.elf",
+            "device": "STM32F103CB",
+            "configFiles": [
+                "${workspaceRoot}/scripts/interface/stlink-v2.cfg",
+                "${workspaceRoot}/scripts/target/stm32f1x.cfg"
+            ]
+        }
+    ]
+}
